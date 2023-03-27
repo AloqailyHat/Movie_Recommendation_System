@@ -1,5 +1,5 @@
 # Movie_Recommendation_System
-Implementing Movie recommendation system on Netflix dataset using collaborative filtering and TF, IDF, and visualize the result using Networkx, which was the goal of the project.
+Implementing Movie Recommendation System on Netflix dataset using collaborative filtering and TF, IDF, and visualize the result using Networkx, which was the goal of the project.
 
 -References:
 1. https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation
